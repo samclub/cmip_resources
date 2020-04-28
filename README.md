@@ -1,1 +1,3 @@
-# cmip_resources
+# CMIP resources
+
+## Google CMIP
